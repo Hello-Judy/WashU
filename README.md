@@ -47,14 +47,16 @@ ESE_417/
 └── README.md                     # Project documentation (current file)
 
 ---
-## How to get this project?
+How to get this project?
+---
 To clone the repository and navigate to the project directory, use the following commands:
-```bash
-git clone https://github.com/your-repo/ESE_417.git
-cd ESE_417
+- bash
+- git clone https://github.com/your-repo/ESE_417.git
+- cd ESE_417
 （Tips: if the computer is mac or linux system, please avoid the first step, and clone directly)
 
-## Dependencies and python version
+Dependencies and python version：
+
 pandas  
 numpy  
 matplotlib  
