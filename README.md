@@ -7,20 +7,11 @@
 
 ## Table of Contents  
 - [Project Title](#project-title)  
-- [Introduction](#introduction)  
 - [Project Objectives](#project-objectives)  
 - [Project Structure](#project-structure)  
-- [Methodology](#methodology)  
-- [Results](#results)  
 - [How to Run the Project](#how-to-run-the-project)  
 - [Dependencies](#dependencies)  
-- [References](#references)  
 
----
-
-## Introduction  
- In this project we want to use the ANN, SVM, RF to predict the quality of red wine depended on the 
- different features. 
 ---
 
 ## Project Objectives  
@@ -54,3 +45,26 @@ ESE_417/
 ├── Description of final project of ESE417 FL2024.pdf  # Project description document
 │
 └── README.md                     # Project documentation (current file)
+
+---
+## How to get this project?
+To clone the repository and navigate to the project directory, use the following commands:
+```bash
+git clone https://github.com/your-repo/ESE_417.git
+cd ESE_417
+（Tips: if the computer is mac or linux system, please avoid the first step, and clone directly)
+
+## Dependencies and python version
+pandas  
+numpy  
+matplotlib  
+seaborn  
+scikit-learn  
+factor-analyzer  
+itertools  
+collections  
+tensorflow==2.10  
+python==3.10
+
+Please some of code have to run on the GPU!!!!!
+
